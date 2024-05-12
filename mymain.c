@@ -5,6 +5,7 @@
 void read_mat(mat* matrix);
 mat* get_matrix_by_index(int index) ;
 
+
 mat *MAT_A, *MAT_B, *MAT_C, *MAT_D, *MAT_E, *MAT_F;  
 
 typedef enum {
